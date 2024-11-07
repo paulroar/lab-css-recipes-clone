@@ -32,7 +32,7 @@ body {
 }
 
 .applePieImage {
-  background-image: url(/apple-pie/images/apple-pie.jpg);
+  background-image: url(../images/apple-pie.jpg);
   background-size: cover;
   padding: 200px 0;
   color: white;
@@ -90,11 +90,6 @@ dl {
 dt {
   margin-bottom: 10px;
   text-align: justify;
-}
-
-dl {
-  list-style-type: disc;
-  list-style-type: decimal;
 }
 
 
