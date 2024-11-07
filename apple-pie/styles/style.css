@@ -79,15 +79,16 @@ h2 {
   margin-bottom: 25px;
 }
 
-dl {
+li {
   font-size: 1.1rem;
   text-align: left;
+  list-style-type: none;
   margin: 0 auto 20px;
   padding-left: 20px;
   max-width: 600px;
 }
 
-dt {
+ul {
   margin-bottom: 10px;
   text-align: justify;
 }
@@ -102,7 +103,7 @@ dt {
     font-size: 1.6rem;
   }
 
-  p, dl dt {
+  p, ul li {
     font-size: 1rem;
   }
 }
